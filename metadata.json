@@ -1,0 +1,6 @@
+{
+  "name": "Cadence 30 — 30-Day Challenge & Habit Ritual Tracker",
+  "description": "A 30-day challenge tracker with daily habit logging, curated motivational quotes, and scheduled push notifications to build lasting consistency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
